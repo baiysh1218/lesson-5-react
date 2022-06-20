@@ -1,0 +1,28 @@
+.user-block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 35%;
+  text-align: center;
+  border: 3px solid red;
+  margin: 4% 3%;
+  border-radius: 20px;
+  padding: 4%;
+}
+.users {
+  padding: 1%;
+  color: white;
+  width: 80%;
+}
+.users-div-block {
+  display: flex;
+  justify-content: center;
+}
+.row {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
